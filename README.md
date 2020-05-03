@@ -6,4 +6,5 @@
 [Practice](https://rasulovislom.github.io/lesson_14/src/ "Header")<br/>
 [Lesson 14](https://rasulovislom.github.io/lesson_15/ "Fonts")<br/>
 [Practice](https://rasulovislom.github.io/lesson_15_practic/scr/ "Main page")<br/>
-[Lesson 15](https://rasulovislom.github.io/lesson_15/src/ "Hover")
+[Lesson 15](https://rasulovislom.github.io/lesson_15/src/ "Hover")<br/>
+[Practice](https://rasulovislom.github.io/lesson_14_practic/scr/ "Adaptive")
