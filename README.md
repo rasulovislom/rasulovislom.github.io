@@ -10,4 +10,5 @@
 [Practice](https://rasulovislom.github.io/lesson_14_practic/scr/ "Adaptive")<br/>
 [Lesson 16](https://rasulovislom.github.io/1 "Slider")<br/>
 [Practice](https://rasulovislom.github.io/lesson_16_practice/src/ "Slider practice")<br/>
-[Lesson 17](# "Pop-up")
+[Lesson 17](# "Pop-up")<br/>
+[Practice](https://rasulovislom.github.io/lesson_17_practice/src/ "Popup practice")
