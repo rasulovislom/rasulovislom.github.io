@@ -8,4 +8,5 @@
 [Practice](https://rasulovislom.github.io/lesson_15_practic/scr/ "Main page")<br/>
 [Lesson 15](https://rasulovislom.github.io/lesson_15/src/ "Hover")<br/>
 [Practice](https://rasulovislom.github.io/lesson_14_practic/scr/ "Adaptive")<br/>
-[Lesson 16](https://rasulovislom.github.io/1 "Slider")
+[Lesson 16](https://rasulovislom.github.io/1 "Slider")<br/>
+[Practice](https://rasulovislom.github.io/lesson_16_practice/src/ "Slider practice")
