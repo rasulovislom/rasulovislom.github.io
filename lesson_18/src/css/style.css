@@ -1,0 +1,110 @@
+a,
+button {
+  text-decoration: none;
+}
+.main {
+  background-color: #0bbaf0;
+  padding: 1rem;
+  background: #ffffff url(../img/bg.png) center center no-repeat;
+  background-size: cover;
+}
+.main-header h1 {
+  font-size: 3rem;
+  text-align: left;
+  display: table-cell;
+  vertical-align: middle;
+}
+.wrap {
+  display: table;
+  width: 100%;
+  height: 7rem;
+}
+.wrap-block {
+  text-align: right;
+  display: table-cell;
+  vertical-align: middle;
+}
+.wrap-block button {
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  color: #0bbaf0;
+}
+.accor {
+  margin: 4rem auto;
+  text-align: center;
+}
+.accor-header h1 {
+  margin-bottom: 4rem;
+  color: #0bbaf0;
+  font-size: 3rem;
+}
+.accor-header h1 span {
+  font-weight: 900;
+}
+.accor .panel-heading {
+  background-color: #0bbaf0;
+}
+.popup {
+  position: fixed;
+  display: none;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.popup-content {
+  position: fixed;
+  text-align: center;
+  left: 50%;
+  top: 10%;
+  background-color: #03a5da;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  padding: 1rem 2rem;
+  border-radius: 0.8rem;
+}
+.popup-close {
+  position: absolute;
+  top: -1.2rem;
+  right: -2rem;
+  width: 2rem;
+  text-align: center;
+  border: none;
+  background-color: transparent;
+  font-size: 3rem;
+  color: #03a5da;
+}
+.popup .tab-content {
+  padding: 3rem;
+  width: 400px;
+}
+.popup .tab-content input {
+  margin-bottom: 2rem;
+  width: 100%;
+  padding: 1.4rem;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  display: block;
+}
+.popup .tab-content .forgot {
+  position: fixed;
+  color: red;
+  left: 10%;
+  text-align: left;
+  display: table-cell;
+  vertical-align: middle;
+}
+.log-btn {
+  position: absolute;
+  padding: 0.5rem 2rem;
+  right: 0;
+  -webkit-transform: translateX(-60%);
+          transform: translateX(-60%);
+  color: #03a5da;
+}
